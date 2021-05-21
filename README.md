@@ -1,3 +1,12 @@
+# The Issue:
+* I got no result list,
+* The loading icon does have a weird text rotating with
+Important files:  
+[App.js](/src/App.js)  
+[TranslatableTypeahead.js](/src/TranslatableTypeahead.js)  
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
